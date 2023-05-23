@@ -11,4 +11,4 @@ Proyecto: Diseño de software
 
 ## Video
 
-> - 🔷 Video del funcionamiento del programa [Click Aquí](https://github.com/AndyTue "Click Aquí")
+> - 🔷 Video del funcionamiento del programa [Click Aquí](https://github.com/EmirBellos "Click Aquí")
