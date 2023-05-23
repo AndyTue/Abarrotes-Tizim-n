@@ -8,3 +8,7 @@ Proyecto: Diseño de software
 > - 🔷Luis Javier Quintana Olivera [@Luis-J-Quintana](https://github.com/Luis-J-Quintana "Click Aquí") 
 > - 🔷Abraham Raymundo Cruz Colli [@abrahamcruzc](https://github.com/abrahamcruzc "Click Aquí") 
 > - 🔷Emir Alejandro Bellos Cruz [@AbnerIvanAlvaradoCastilla](https://github.com/AbnerIvanAlvaradoCastilla "Click Aquí")
+
+## Video
+
+> - 🔷 Video del funcionamiento del programa [Click Aquí](https://github.com/AndyTue "Click Aquí")
