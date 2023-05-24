@@ -1,4 +1,4 @@
-# Abarrotes-Tizimím
+# Abarrotes Tizimím
 Proyecto: Diseño de software
 
 
